@@ -1,0 +1,5 @@
+rules:
+  loadinfra:
+    namespace: neoload-infra
+    # labels:
+    #   usecase: loadinfra

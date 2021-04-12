@@ -1,1 +1,1 @@
-# kube-scheduler-by-meta
+# kube-scheduler-by-labels
